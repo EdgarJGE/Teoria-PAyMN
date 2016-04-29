@@ -43,5 +43,5 @@ String buscar;
 
 
   public String toString(){
-  	return "Tu CP es:" + cp + "Tu dirección es:" + dirección;
+  	return "Tu CP es:" + cp + "y tu dirección es:" + dirección;
   }
